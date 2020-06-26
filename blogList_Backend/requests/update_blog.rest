@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/5edd2c04e4f6edc0b4a54f71
+Content-Type: application/json
+
+{
+    "title": "Test1",
+    "author": "luukkai",
+    "url": "www.mixunblogi.fi/testing",
+    "likes": 11
+}
